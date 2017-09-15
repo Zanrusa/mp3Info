@@ -1,2 +1,3 @@
 # mp3Info
-change mp3 ID3 information with a index info,using module mutagen.
+Change mp3 ID3 info with a index info,and classify mp3 according to the artist info.
+Use module mutagen in this program.
